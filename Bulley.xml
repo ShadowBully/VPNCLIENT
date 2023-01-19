@@ -41,5 +41,10 @@
                         <HostName>vpn.bulley.com</HostName>
                         <HostAddress>vpn.bulley.com</HostAddress>
                 </HostEntry>
+                <HostEntry>
+                        <HostName>BulleyVPN</HostName>
+                        <HostAddress>bulley-and-andrews-appliance-djvwwcdwqnc.dynamic-m.com</HostAddress>
+                </HostEntry>
+
         </ServerList>
 </AnyConnectProfile>
